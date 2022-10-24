@@ -99,28 +99,29 @@ for i in raw-formatted-annotated/*.txt; do
 done
 ```
 
-BioClimate | Description                         | \# of variants  | \# of genic variants | High impact | Intergenic region 
----------- | -----------------------             | --------------: | -----:| -----: | ----------------:
-Bio 1      | Annual mean temperature             | 644             | 535   | 7     | 109
-Bio 2      | Mean diurnal range                  | 870             | 747   | 5     | 123
-Bio 3      | Isothermality                       | 283             | 220   | 8     | 63
-Bio 4      | Temperature seasonality             | 657             | 473   | 11    | 184
-Bio 5      | Max temperature of warmest month    | 74              | 54    | 2     | 20
-Bio 6      | Min temperature of coldest month    | 766             | 594   | 12    | 172
-Bio 7      | Temperature annual range            | 206             | 165   | 2     | 41
-Bio 8      | Mean temperature of wettest quarter | 569             | 530   | 8     | 39
-Bio 9      | Mean temperature of driest quarter  | 109             | 94    | 0     | 15
-Bio 10     | Mean temperature of warmest quarter | 34              | 26    | 1     | 8
-Bio 11     | Mean temperature of coldest quarter | 839             | 654   | 13    | 185
-Bio 12     | Annual precipitation                | 169             | 155   | 1     | 14
-Bio 13     | Precipitation of wettest month      | 9               | 9     | 0     | 0
-Bio 14     | Precipitation of driest month       | 2533            | 1995  | 39    | 538
-Bio 15     | Precipitation seasonality           | 1805            | 1065  | 9     | 740
-Bio 16     | Precipitation of wettest quarter    | 11              | 10    | 0     | 1
-Bio 17     | Precipitation of driest quarter     | 2808            | 2247  | 37    | 561
-Bio 18     | Precipitation of warmest            | 48              | 45    | 1     | 3
-Bio 19     | Precipitation of coldest quarter    | 477             | 363   | 5     | 114
+BioClimate | Description                             | \# of variants  | \# of genic variants | High impact | Intergenic region 
+---------- | -----------------------                 | --------------: | -----:   | -----: | ----------------:
+Bio 1      | Annual mean temperature                 | 644             | 535      | 7      | 109
+Bio 2      | Mean diurnal range                      | 870             | 747      | 5      | 123
+Bio 3      | Isothermality                           | 283             | 220      | 8      | 63
+Bio 4      | Temperature seasonality                 | 657             | 473      | 11     | 184
+**Bio 5**  | **Max temperature of warmest month**    | **74**          | **54**   | **2**  | **20**
+Bio 6      | Min temperature of coldest month        | 766             | 594      | 12     | 172
+Bio 7      | Temperature annual range                | 206             | 165      | 2      | 41
+Bio 8      | Mean temperature of wettest quarter     | 569             | 530      | 8      | 39
+**Bio 9**  | **Mean temperature of driest quarter**  | **109**         | **94**   | **0**  | **15**
+**Bio 10** | **Mean temperature of warmest quarter** | **34**          | **26**   | **1**  | **8**
+Bio 11     | Mean temperature of coldest quarter     | 839             | 654      | 13     | 185
+Bio 12     | Annual precipitation                    | 169             | 155      | 1      | 14
+Bio 13     | Precipitation of wettest month          | 9               | 9        | 0      | 0
+**Bio 14** | **Precipitation of driest month**       | **2533**        | **1995** | **39** | **538**
+Bio 15     | Precipitation seasonality               | 1805            | 1065     | 9      | 740
+Bio 16     | Precipitation of wettest quarter        | 11              | 10       | 0      | 1
+**Bio 17** | **Precipitation of driest quarter**     | **2808**        | **2247** | **37** | **561**
+**Bio 18** | **Precipitation of warmest**            | **48**          | **45**   | **1**  | **3**
+Bio 19     | Precipitation of coldest quarter        | 477             | 363      | 5      | 114
 
+Tables for selected climatic variables are listed below:
 GWAS results table for the [Max temperature of warmest month](https://docs.google.com/spreadsheets/d/1_dVaFRDJoFhYn85vug2NaESx5otR1QJX7rjOv4yTmGI/edit?usp=sharing "Max temperature of warmest month").
 
 ![alt text for screen readers](Images/GEMMA-plot/GWAS-Bio5-Max_temperature_of_warmest_month-sig-p_wald-0.00001.png "Max temperature of warmest month")
