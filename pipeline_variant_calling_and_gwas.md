@@ -122,6 +122,9 @@ Bio 16     | Precipitation of wettest quarter        | 11              | 10     
 Bio 19     | Precipitation of coldest quarter        | 477             | 363      | 5      | 114
 
 Tables for selected climatic variables are listed below:
+
+
+
 GWAS results table for the [Max temperature of warmest month](https://docs.google.com/spreadsheets/d/1_dVaFRDJoFhYn85vug2NaESx5otR1QJX7rjOv4yTmGI/edit?usp=sharing "Max temperature of warmest month").
 
 ![alt text for screen readers](Images/GEMMA-plot/GWAS-Bio5-Max_temperature_of_warmest_month-sig-p_wald-0.00001.png "Max temperature of warmest month")
